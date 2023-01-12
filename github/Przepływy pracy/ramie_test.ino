@@ -12,3 +12,11 @@ void loop()             // pętla nieskończona
   digitalWrite(LED, LOW);   // wyzerowanie bitu
   delay(1000);              // opóźnienie 1 s (1000 ms)
 }
+//komenrarz
+ihabwldhbwa
+
+
+void funkcja ()
+{
+  pinMode(LED, OUTPUT)
+}
